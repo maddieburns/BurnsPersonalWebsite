@@ -143,6 +143,14 @@ textarea{
         height: 800px;
         padding-bottom: 1em;
     }
+    #clarinet{
+        background-image: url(images/maddie-062-edit.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: block;
+        height: 800px;
+        padding-bottom: 1em;
+    }
     #loungehero{
         background-image: url(images/yogalounge.jpg);
         background-repeat: no-repeat;
@@ -171,16 +179,16 @@ textarea{
 @media(max-width:1024px){
     body{
         margin: 0;
-        background-color: #FE015A;
-        color:#FBEEE8;
+        background-color: #fbeee8;
+        color:#FE015A;
         font-family: Verdana, Arial, sans-serif;
     }
     header{
         /*background-color: #80CBC4; */
         background-image: url("images/redhat2.jpg");
         background-size: 100% 100%;   /*stretch the image to 100% width and 100% height*/
-        background-color: #FE015A;
-        color:#FBEEE8;
+        background-color: #FBEEE8;
+        color:#FE015A;
         font-size: 90%;
         margin-top: 50px;
         min-height: 200px;
